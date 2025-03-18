@@ -32,10 +32,10 @@
 
 Here are some of my live projects hosted on Vercel:
 
-1. [Random Landing Page](https://rndom-landing-page.vercel.app/)
-2. [Project 1](https://project1go.vercel.app/)
-3. [E-commerce Website](https://ecommerce-brown-iota.vercel.app/)
-4. [My Project](https://my-project-eta-ashen.vercel.app/)
+1. (https://rndom-landing-page.vercel.app/)
+2. (https://project1go.vercel.app/)
+3. (https://ecommerce-brown-iota.vercel.app/)
+4. (https://my-project-eta-ashen.vercel.app/)
 
 Feel free to check them out and give feedback! 🚀
 
