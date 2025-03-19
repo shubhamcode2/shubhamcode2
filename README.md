@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web Apps**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development** primarily focused on **Backend Development**
 
 - 💬 Ask me about **JAVASCRIPT**
 
