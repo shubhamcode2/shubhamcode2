@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://www.drupal.org/files/project-images/screenshot_361.png" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
@@ -47,30 +47,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamcode2&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamcode2&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=shubhamcode2&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-<h3 align="center">📫 Connect with Me</h3>
-<p align="center">
-  <a href="https://github.com/shubhamcode2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-singh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
