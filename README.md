@@ -8,5 +8,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamcode2&show_icons=true&locale=en&layout=compact" alt="shubhamcode2" /></p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=shubhamcode2 &theme=dark&hide_border=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamcode2&" alt="shubhamcode2" /></p>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shubhamcode2&theme=dark&hide_border=true)
+
