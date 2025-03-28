@@ -8,8 +8,7 @@
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Web Applications**  
-- 🌱 Learning **Full-Stack Development (MERN, Next.js, DevOps)**  
-- 🎯 Goal: To become a **Skilled Full-Stack Developer & Transition into DevOps**  
+- 🎯 Goal: To become a **Skilled Full-Stack Developer**  
 - 💬 Ask me about **React, Node.js, MongoDB, APIs, TailwindCSS**  
 
 ---
