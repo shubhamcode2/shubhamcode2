@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Web Applications**  
 - 🎯 Goal: To become a **Skilled Full-Stack Developer**  
 - 💬 Ask me about **React, Node.js,Express, MongoDB, APIs, TailwindCSS, SQL**  
-
+- [Portfolio](https://shubhamsinghk.netlify.app/)
 ---
 
 <p align="center">
